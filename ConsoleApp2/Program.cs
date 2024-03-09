@@ -196,7 +196,12 @@ namespace ConsoleApp2
             //Console.ReadLine();
             #endregion
 
-            #region MyRegion
+
+
+
+            //Calisma
+            #region Work
+            //WORK 3
             //int[] arr = { 0, 5, 5, 12, 11,12, 13, 8, 8, 6, 10 ,8};
             //int count = 0;
             //int value = 0;
@@ -218,11 +223,54 @@ namespace ConsoleApp2
             //        value = arr[i];
             //    }
             //}
+
+
+
+            //WORK 2
+
+            //int[] arr = { 15, 14, 12, 2, 4 };
+            //int[] arr2 = new int[arr.Length];
+
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    arr2 = arr;
+            //    Console.WriteLine(arr2[i]);
+            //}
+
+
+
+            //WORK 1
+            //int[] nums = { 6, 4, 3, 2, 8, 6, 5, 11, 12, 2 };
+
+            //for (int i = 0; i < nums.Length; i++)
+            //{
+            //    bool tek = false; 
+
+            //    for (int j = 0; j < nums.Length; j++)
+            //    {
+            //        if (i != j && nums[i] == nums[j])
+            //        {
+            //            tek = true;
+            //            break;
+            //        }
+
+            //    }
+            //    if(!tek)
+            //    {
+
+            //        Console.WriteLine(nums[i]);
+            //    }
+            //}
+
             #endregion
 
 
 
 
+
+
+
+            #region 7 mart
             //int[] arr1 = { 211, -6, 32, 9, 19, 5 };
             //int[] arr2 = { 211,19,5,32,8};
 
@@ -245,6 +293,12 @@ namespace ConsoleApp2
             //    Console.WriteLine(check == false);
 
             //}
+            #endregion
+
+
+
+
+
         }
     }
 }
